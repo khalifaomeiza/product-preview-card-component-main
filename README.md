@@ -33,7 +33,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: 
+- Solution URL: (https://github.com/khalifaomeiza/product-preview-card-component-main)
 - Live Site URL: (https://khalifaomeiza.github.io/product-preview-card-component-main/)
 
 ## My process
